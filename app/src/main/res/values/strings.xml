@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AppGateTest</string>
+    <string name="tvCreateNewUser">Crear Cuenta</string>
+    <string name="hintEtCreateEmail">Ingrese una cuenta de correo</string>
+    <string name="hintEtCreatePassword">Ingrese un password</string>
+    <string name="tvLoginUser">Ingrese con su correo y password</string>
+    <string name="btnCreateUser">Crear Usuario</string>
+    <string name="btnValidateUser">Validar Cuenta</string>
+</resources>
